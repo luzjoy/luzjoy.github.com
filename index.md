@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Index
+title: About Luz
 ---
-
-## About Luz
 
 ### 程序员
 
